@@ -31,14 +31,17 @@ Here are some of the graphs that were produced from the data:
 
 ### What are the coldest and the warmest months on Mars?
 ![image](https://user-images.githubusercontent.com/86980650/220933669-1142d8eb-ce1b-44bb-ba15-3ab558d23ab9.png)
+
 On mars the 3rd month is the coldest and the 8th month is the warmest.
 
 ### Which months have the lowest and the highest atmospheric pressure on Mars?
 ![image](https://user-images.githubusercontent.com/86980650/220933822-bba7f223-da12-4ba2-9ace-6a4952ca673f.png)
+
 The 6th month is the lowest and the 9th month is the highest in terms of atmospheric pressure.
 
 ### How many terrestrial (earth) days are there in a Martian year?
 ![image](https://user-images.githubusercontent.com/86980650/220933842-6d22a8d0-08e0-4c5b-9866-b44b58ce85de.png)
+
 Based on the plot above, it appears that the data spans 2021 Earth days which is equivalent to about 2.5 Martian years.
 Using this information, I can estimate that a Martian year is approximately 808.4 Earth days long.
 
